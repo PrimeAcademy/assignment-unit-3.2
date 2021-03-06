@@ -1,0 +1,16 @@
+{
+  "name": "prime-pw-week-3-assignment",
+  "version": "1.0.0",
+  "description": "This week, we will continue to put more into your tool belt by tackling methods for handling tasks multiple times, storing multiple pieces of information, and more advanced decision tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimeAcademy/prime-pw-week-3-assignment.git"
+  },
+  "author": "Prime Digital Academy",
+  "license": "ISC",
+  "homepage": "https://github.com/PrimeAcademy/prime-pw-week-3-assignment#readme"
+}
