@@ -12,14 +12,30 @@ for (let i=0; i<4; i++) {
 
 // 1.a. TODO: Write a for loop to console.log the numbers from 0 to 5 
 //   - Which part of the example loop do you need to change to do this?
+for (let count=0; count <= 5; count ++){
+  console.log(count)
+}
 console.log('count from 0 to 5');
 
 // 1.b. TODO: Write a for loop to console.log the numbers from 3 to 5
 //   - Which part of the example loop do you need to change to do this?
+for (let count=3; count <= 5; count ++){
+  
+  console.log(count)
+}
+
 console.log('count from 3 to 5');
 
 // 1.c. TODO: Write a for loop to console.log EVEN numbers from 2 to 10
 //   - Which part of the example loop do you need to change to do this?
+let numberArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+let countEven = []; 
+for (let count = 0; count < numberArray.length; count ++){
+  if (numberArray[count] % 2 === 0){
+    countEven.push(numberArray[count])
+ }
+}
+console.log(countEven)
 console.log('count even numbers from 2 to 10 (2, 4, 6, 8, 10):');
 
 // 1.d. (STRETCH) TODO: Write a for loop to do a countdown from 5 to 0
