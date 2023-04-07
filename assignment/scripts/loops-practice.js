@@ -69,9 +69,10 @@ while (someStars <stars.length){
 
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 console.log('count from 0 to 5');
-let numbers = 0;
-whille (numbers){
-  let numberCount = 
+let numbers = -1;
+while (numbers<5){
+  numbers += 1;
+  console.log(numbers) 
 }
 
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
