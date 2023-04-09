@@ -11,7 +11,8 @@ for (let i=0; i<4; i++) {
 }
 
 // 1.a. TODO: Write a for loop to console.log the numbers from 0 to 5 
-//   - Which part of the example loop do you need to change to do this? I need to change the middle part. Change number for to number 6.
+//   - Which part of the example loop do you need to change to do this? 
+// I need to change the middle part. Change number for to number 6.
 console.log('count from 0 to 5');
 
 for (let i=0; i<6; i++) {  
@@ -20,7 +21,8 @@ for (let i=0; i<6; i++) {
 
 
 // 1.b. TODO: Write a for loop to console.log the numbers from 3 to 5
-//   - Which part of the example loop do you need to change to do this? I need to change i=0 to i=3 so it will start counting from 3.
+//   - Which part of the example loop do you need to change to do this? 
+// I need to change i=0 to i=3 so it will start counting from 3.
 
 console.log('count from 3 to 5');
 
@@ -30,7 +32,9 @@ for (let i=3; i<6; i++) {
 
 
 // 1.c. TODO: Write a for loop to console.log EVEN numbers from 2 to 10
-//   - Which part of the example loop do you need to change to do this? I added a variable called number with a value of . Then I added a for loop and an if. iside the if i used a Remainder `%` to just get the even numbers.
+//   - Which part of the example loop do you need to change to do this? 
+// I added a variable called number with a value of . Then I added a for loop and an if. iside the if i used a Remainder `%` to just get the even numbers.
+
 console.log('count even numbers from 2 to 10 (2, 4, 6, 8, 10):');
 
 let number=10;
