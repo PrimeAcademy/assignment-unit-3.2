@@ -74,12 +74,20 @@ let iStars = 0;
 
 while(iStars<star){
   console.log(stars[iStars] + " ");
-  iStars = iStars +1;
+  iStars ++;
 }
 
 
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 console.log('count from 0 to 5');
+
+let count = 0;
+		while ( count < 6 )
+		{
+			console.log(count);
+			count++;
+    }
+
 
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
 console.log('count backwards from 10 to 5');
