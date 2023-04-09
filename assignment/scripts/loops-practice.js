@@ -85,20 +85,20 @@ while(iStars<star){
 console.log('count from 0 to 5');
 
 let count = 0;
-		while ( count < 6 )
-		{
-			console.log(count);
-			count++;
-    }
+	while ( count < 6 )
+	{
+	console.log(count);
+	count++;
+  }
 
 
 // 3.c. TODO: Write a while loop to console.log the numbers from 10 to 5
 console.log('count backwards from 10 to 5');
 
 let secondCount = 10;
-		while ( secondCount >= 5 )
-		{
-			console.log(secondCount);
-			secondCount--;
-    }
+	while ( secondCount >= 5 )
+	{
+	console.log(secondCount);
+	secondCount--;
+  }
 
