@@ -1,4 +1,4 @@
-# Unit 2, Part 2: Loops Practice
+# Unit 3, Part 2: Loops Practice
 
 This unit, we will continue to put more into your tool belt by tackling methods for handling tasks multiple times, storing multiple pieces of information, and more advanced decision tools.
 
